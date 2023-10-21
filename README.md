@@ -7,8 +7,12 @@
 - ![image](https://github.com/BsNgChiThanh/Cai-Office2010-va-kich-hoat/assets/82578024/fe9b4cc0-ac9d-4106-9fcf-9c12bc3e3d61)
 
 ## KÍCH HOẠT OFFICE 2010 ##
-- Dùng Mas Tool https://github.com/BsNgChiThanh/MAS-TOOL
-- 
+  - Mas Tool https://github.com/BsNgChiThanh/MAS-TOOL không kích hoạt được office 2010.
+  - KMS VL ALL AIO https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md không kích hoạt được office 2010.
+  - 
+
+
+
 
 
 
