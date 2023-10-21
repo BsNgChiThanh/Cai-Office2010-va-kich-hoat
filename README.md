@@ -24,15 +24,11 @@
   - ![image](https://github.com/BsNgChiThanh/Cai-Office2010-va-kich-hoat/assets/82578024/2c671322-6e70-4862-9b9f-f624fa6668eb)
   - **Nhấn phím O**
   - ![image](https://github.com/BsNgChiThanh/Cai-Office2010-va-kich-hoat/assets/82578024/cbdc9c88-9f81-4b9c-850d-7ce5e34d83ac)
-
-
-
-
-
-
-
-
-
-
-
-
+  - **Nhấn phím 4**
+  - ![image](https://github.com/BsNgChiThanh/Cai-Office2010-va-kich-hoat/assets/82578024/40426030-ae66-4c8b-b5ae-375715c18247)
+  - **Nhấn phím T**
+  - ![image](https://github.com/BsNgChiThanh/Cai-Office2010-va-kich-hoat/assets/82578024/1391e0c9-b1ee-4d44-86d3-b4fd101ee753)
+  - OK!
+  - ![image](https://github.com/BsNgChiThanh/Cai-Office2010-va-kich-hoat/assets/82578024/284dbbbb-2035-45df-83c3-7fbe09b355bd)
+  - ![image](https://github.com/BsNgChiThanh/Cai-Office2010-va-kich-hoat/assets/82578024/31b6cdac-17e2-4a45-a4ea-79b2eef1cda2)
+  - **DONE!**
