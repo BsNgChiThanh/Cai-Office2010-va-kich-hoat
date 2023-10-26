@@ -2,6 +2,7 @@
 ## CÀI OFFICE 2010 ##
   - Download file cài đặt Office 2010 [tại đây](https://drive.google.com/file/d/10jL2IU_vr0QbkKrG51sk60KeD1XCgaY6/view) hoặc [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EWfgXXGKYxFMky8lWmy1W6wBakFvJItnxewlzpC5pCWudQ?e=sKK2Xf) Mật khẩu giải nén: PITVNcommunity. Mật khẩu cũ PITVN.
   - https://drive.massgrave.dev/SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_English_CORE_MLF_X17-76748.ISO
+  - https://drive.massgrave.dev/SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_English_CORE_MLF_X17-76756.ISO
   - ![image](https://github.com/BsNgChiThanh/Cai-Office2010-va-kich-hoat/assets/82578024/47644385-3ada-4432-80d0-b3eed1eb24eb)
   - ![image](https://github.com/BsNgChiThanh/Cai-Office2010-va-kich-hoat/assets/82578024/8772133f-7470-46a9-b029-420c9ba108d8)
   - ![image](https://github.com/BsNgChiThanh/Cai-Office2010-va-kich-hoat/assets/82578024/ec0be0f5-0544-4a39-bb52-01a325352402)
