@@ -1,6 +1,6 @@
 # CÀI ĐẶT OFFICE 2010 VÀ KÍCH HOẠT VĨNH VIỄN #
 ## CÀI OFFICE 2010 ##
-  - Download file cài đặt Office 2010 [tại đây](https://drive.google.com/file/d/10jL2IU_vr0QbkKrG51sk60KeD1XCgaY6/view) hoặc [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EWfgXXGKYxFMky8lWmy1W6wBakFvJItnxewlzpC5pCWudQ?e=sKK2Xf) Mật khẩu giải nén: PITVNcommunity. Mật khẩu cũ PITVN.
+  - Download file cài đặt [Office 2010](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EWfgXXGKYxFMky8lWmy1W6wBakFvJItnxewlzpC5pCWudQ?e=sKK2Xf):
   - https://drive.massgrave.dev/SW_DVD5_Office_Professional_Plus_2010w_SP1_W32_English_CORE_MLF_X17-76748.ISO
   - https://drive.massgrave.dev/SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_English_CORE_MLF_X17-76756.ISO
   - ![image](https://github.com/BsNgChiThanh/Cai-Office2010-va-kich-hoat/assets/82578024/47644385-3ada-4432-80d0-b3eed1eb24eb)
